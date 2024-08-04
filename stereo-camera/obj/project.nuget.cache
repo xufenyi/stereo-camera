@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUtY3f0xddSkoS92RK4HMbRdET1+qOhLu5gFCAIShk8wGEmXWb+9B0Kn01IuKfaVdBy3kUCmCbiParpFveYduQ==",
+  "success": true,
+  "projectFilePath": "E:\\Storage\\source\\stereo-camera\\stereo-camera\\stereo-camera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
